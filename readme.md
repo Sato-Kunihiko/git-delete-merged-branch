@@ -1,10 +1,10 @@
 # Bash file for deleting git local branches that you have merged into the branch you're currently on.
 
-##Environment
+## Environment
 - macOS
 - git version 2.17.2 (Apple Git-113)
 
-##Usage
+## Usage
 ### Step 1.
 Move to the directory with the target git branch.
 
