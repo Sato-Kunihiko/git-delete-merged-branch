@@ -6,7 +6,7 @@
 
 ## Usage
 ### Step 1.
-Move to the directory with the target git branch.
+Move to the directory with a target git branch.
 
 ### Step 2.
 Check current branch with
